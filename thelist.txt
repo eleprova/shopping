@@ -1,0 +1,5 @@
+tomato,
+oranges,
+potatoes,
+beers,
+dishes
